@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/ZAKHAROV-Artem/saas-landing
 
-cd saas-lading
+cd saas-landing
 
 npm i
 
